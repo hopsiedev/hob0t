@@ -1,4 +1,4 @@
-# 🎫 HOB0T - Multiusos
+#                  🎫 HOB0T - Multiusos
 
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
 ![Node.js](https://img.shields.io/badge/node.js-v16+-green)
