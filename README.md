@@ -85,5 +85,3 @@ const token = 'TU_TOKEN';                    // Token de tu bot
    - **Canales:** Click derecho en el canal → Copiar ID
    - **Categoría:** Click derecho en la categoría → Copiar ID
    - **Token del Bot:** Discord Developer Portal → Tu aplicación → Bot → Token
-
-### 🏗️ Estructura de Canales Recomendada
