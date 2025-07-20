@@ -1,4 +1,4 @@
-#                  🎫 HOB0T - Multiusos
+# 🎫 HOB0T - Multiusos
 
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
 ![Node.js](https://img.shields.io/badge/node.js-v16+-green)
@@ -85,5 +85,3 @@ const token = 'TU_TOKEN';                    // Token de tu bot
    - **Canales:** Click derecho en el canal → Copiar ID
    - **Categoría:** Click derecho en la categoría → Copiar ID
    - **Token del Bot:** Discord Developer Portal → Tu aplicación → Bot → Token
-
-### 🏗️ Estructura de Canales Recomendada
