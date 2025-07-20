@@ -42,7 +42,7 @@ Bot de Discord especializado en sistema de tickets para soporte, creador de embe
 
 1. **Clona o descarga el proyecto**
    ```bash
-   git clone <tu-repositorio>
+   git clone https://github.com/hopsiedev/hob0t.git
    cd h0b0t
    ```
 

@@ -3,8 +3,8 @@ import TicketReview from './TicketReview.js';
 import fs from 'fs';
 import path from 'path';
 
-// Configuración interna (antes en config.json)
-const staffRoleId = '1396377979818606614'; // ID correcto del rol de staff
+// Configuración interna
+const staffRoleId = '1396377979818606614';
 const logsChannelId = '1396378212145168497';
 const archiveCategoryId = '1396406452192809012';
 
@@ -336,7 +336,7 @@ const TicketManager = {
       
       await interaction.reply({ embeds: [closeEmbed] });
       
-      // Enviar menú de review al usuario si existe
+      // Enviar menú de review al usuario si existe al DM
       if (user) {
         try {
           await TicketReview.sendReviewMenu(user.user);
