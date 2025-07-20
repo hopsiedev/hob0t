@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@discordjs/rest": "^2.5.1",
+    "discord-api-types": "^0.38.16",
+    "discord.js": "^14.21.0"
+  }
+}
