@@ -2,7 +2,6 @@
 
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
 ![Node.js](https://img.shields.io/badge/node.js-v16+-green)
-![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)   
 
 ## 📝 Descripción
